@@ -1,16 +1,13 @@
-### Hi there 👋
+# 안녕하세요. 잡동사니 기랸씨입니다.
 
-<!--
-**kiryanchi/kiryanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 백엔드 개발에 관심이 많은 학생
 
-Here are some ideas to get you started:
+## 현재 하고있는 공부
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [스프링 핵심 원리 기본편](https://github.com/kiryanchi/inflearn-spring-basic)
+
+## 현재 하고있는 프로젝트
+
+-  [MusicpleStory](https://github.com/kiryanchi/musicple_story)
+    
+    친구들과 함께 디스코드를 즐기기위해 개발하고있는 봇입니다.
