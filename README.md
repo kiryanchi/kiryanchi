@@ -8,6 +8,10 @@
 
 ## 현재 하고있는 프로젝트
 
--  [MusicpleStory](https://github.com/kiryanchi/musicple_story)
+-  [Sky Whale Bot](https://github.com/kiryanchi/Discord-Sky-Whale-Bot)
     
     친구들과 함께 디스코드를 즐기기위해 개발하고있는 봇입니다.
+      
+-  [XPA](https://github.com/kiryanchi/xpa)
+
+    친척의 부탁으로 엑셀 작업의 편의를 위해 개발하고 있는 프로그램입니다.
