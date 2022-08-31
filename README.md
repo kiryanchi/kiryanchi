@@ -15,3 +15,7 @@
 -  [XPA](https://github.com/kiryanchi/xpa)
 
     친척의 부탁으로 엑셀 작업의 편의를 위해 개발하고 있는 프로그램입니다.
+
+## Neovim
+
+- [Neovim config files](https://github.com/kiryanchi/neovim-config)
