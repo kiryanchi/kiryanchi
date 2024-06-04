@@ -1,10 +1,14 @@
-<h2 align="left">print("Hello, Ryan Park!")</h2>
+<h2 align="left">Hello, Ryan Park!</h2>
 
 ###
 
 <div align="center">
   <img height="500" src="https://github.com/kiryanchi/kiryanchi.github.io/blob/master/assets/img/freedom.png?raw=true"  />
 </div>
+
+###
+
+<p align="center">더 큰 꿈을 향해 나아가자</p>
 
 ###
 
@@ -22,10 +26,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
