@@ -1,4 +1,4 @@
-<h2 align="left">Hello, Ryan Park!</h2>
+<h2 align="center">Hello, Ryan Park!</h2>
 
 ###
 
