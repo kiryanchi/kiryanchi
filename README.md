@@ -29,7 +29,9 @@
 
 ###
 
-![백준 티어](./백준티어.svg)
+<p align="center">
+  <img src="./tier.svg" alt="백준 티어">
+</p>
 
 ###
 
